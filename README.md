@@ -37,7 +37,7 @@ So, to run/view this project, we can simply open the `index.html` file on a web 
         │  ├─ scroll-up.jpg  
         ├─ index.html
     ```
-    <!--social media link-->
+    
 
    Besides, I also use fontawesome
 
@@ -46,7 +46,7 @@ So, to run/view this project, we can simply open the `index.html` file on a web 
     href=https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.15.4/css/fontawesome.min.css
     rel="stylesheet" />
 
-    <!--font awesome cdn link-->
+    
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
