@@ -1,2 +1,6 @@
-# ageetha2
-My portfolio
+# My Porfolio
+
+This is my personal website/porfolio.
+
+---
+
