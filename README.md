@@ -22,9 +22,9 @@ So, to run/view this project, we can simply open the `index.html` file on a web 
 
 ## How my website's built
 
-1. My website is built by using HTML, CSS, and JavaScript.
+1. My website is built by using HTML, CSS, bootstrap and JavaScript.
 
-    - I write my own HTML, CSS, and JavaScript code. I created single css and JavaScript files to maintain. This is how they are called in index.html:
+    - I write my own HTML, CSS, and JavaScript code. I created single css bootstrap and JavaScript files to maintain. This is how they are called in index.html:
 
     ``` bash
         agirayen.github.io/
@@ -36,7 +36,9 @@ So, to run/view this project, we can simply open the `index.html` file on a web 
         │  ├─ agi-profile.jpg
         │  ├─ scroll-up.jpg  
         ├─ index.html
-    ```
+        ├─docs/
+           ├─Agnita Rayen-Resume.pdf
+    ``` 
     
 
    Besides, I also use fontawesome
